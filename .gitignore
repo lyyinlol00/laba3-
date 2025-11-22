@@ -1,0 +1,33 @@
+# Python / Virtual Environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+
+# CustomTkinter / IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# ОС и временные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Наш старый конфиг (на всякий случай)
+guess_config.json
+
+# Скомпилированные/дистрибутивы
+build/
+dist/
+*.exe
+*.spec
