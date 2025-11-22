@@ -1,4 +1,3 @@
-# УГАДАЙ ЧИСЛО — АБСОЛЮТНО ФИНАЛЬНАЯ ВЕРСИЯ БЕЗ JSON (2025)
 import customtkinter as ctk
 import random
 
